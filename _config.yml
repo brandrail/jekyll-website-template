@@ -1,0 +1,8 @@
+title: "jekyll-website-template"
+
+plugins:
+  - "jekyll-seo-tag"
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
